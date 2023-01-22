@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "parsercoinex",
+  "private_key_id": "80bc2aea1c6d9ee75c2c1485948e48b2832f3ccc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSrNZxPhZGLZVI\n8AUvSDfm+mVVXOJBfUQZ9z0kDCJWIG2Qi+vEd7T36GvR0gWQthFUJFfkHjzvgcCQ\nBjRth/FxfQWdx+1KYIIRUg6JiMEQ1vbz1mpHlB1viPYasks11nrTSxp0NxNiGiDz\niWBk1tmVAOM/1IXWfrrkMjnl36MwRT2a7EpwAyVkFeYDYnEgbDxMtjOqsPSqA1QE\nAZmfkCofaodzIFm8p4/KSzLfYKORrA6ES3kvxRtZKsQeLytOSW+UyLLyQnMhF6rO\nTxYXX+UWUiZh5mlZWA5BZXnDVoLloESwlpmKT+AsMmVAVYvFYQzfCza1jNdoK4NI\nQsqVUCz9AgMBAAECggEADTZbhMzqdbzibzULyoQPYROaMDPTP8H4cfxW+hnLuAVo\nyTYJcWO1HgXGPJrWHICCFBnH/wkIRSzjezXL4Df4NFhmOp3JTsNdxBCntZTni0xJ\n55Ifdb4uXp8wSBxacQmWe9UOl3xklxgycq2jzMGbzPPNBLFwsu8sh6TMmVvpV84p\n+qFjJ0lyYqC7j67YI4kX+CSoE2fkqTBX+lKjhIzAU4SePxwgsVR10QWfyvhPoBnQ\nMoaozhCIIUm+2zxy5vwJr/KIibfIhNSmeml3s9Tqhhnf2zfE9c0wqCu57hySThle\nlAl3O+ViyLSJeAG9sNVizzBM+rGeBcPS5ItFF86jsQKBgQDKRWlB6qk2NPjU/sXr\nZNek2/M+I9G+yCSYgIlbFQ+AgBLx7XmNTIYOLDYg6Ot9dUk7POeWYtz/+fws9DzQ\n3d+4kq0mm6Fdwdzt2kgNQl7VQALf0ech+XYeDW/xz26sQsQSUr3uWhBetL+gz8qH\nKJdgzloUObT0EZbrx9Aujh5ziQKBgQC5otuG8P+T5jwsCZo1y9T3IoFtKmvFt600\nFIoNW6LRM8IYtdWj8BHuqEaDZi5EH2cKVilwPpIxtk5OGJwH8Rk5QMJZT0PcsK58\nNTpOvmJ2wtf2DZL9rJZQJu7p5cpgScLSMGYcVNeY90sgAEOnYFtIWKDSkF89XgCa\n3kJGNQqs1QKBgClDw9d4whCW+fSqDUKajgvJ+3O/5vhe6GhcQKleQI1ck4Dbi6Kx\n699UUa6hFfnARbJaGHzrql5mZ3XcVdPej9edxMlNkrwH4sR7dZuO4L3skymKLvcV\nZ212HFJemRt3e3ypeKn5ocFQao+qFI1CUK+lKWda5nmsZPexCd2VjMzRAoGBAJ5/\nYphwpIcPCUlAWZ6dDpSDraYbljEWhpf1AXouR3H/kzWt618x1t3CZ5JBaDdZ6Ix2\nzKK9ie1QDsO3V2GghTzRAh9nAjYn1JLQj5w0CbYE3oeDR4G4Hg8Jbuvd+1EDKYh1\nMnn2Jq7AVjBYiWsbZlT69zVRdz/aRwHzyvpOx3KRAoGBAItmGWhajIXzrCYvFTO3\nxad34Ni3uxJm9LNB/m/6kBb4kkT+8WTvMHPoQx0m8Pkt1DdM5d5Yjzl4gPGok8cv\nwaB4/T1EXlcc/O5lXLOrlYODr/g6x73e+hvYBdZ30jW0TOp++QDwBdY+1Ck3c4ta\nAite0WmP7nAbbN7OrntHcLcq\n-----END PRIVATE KEY-----\n",
+  "client_email": "parser-coinex@parsercoinex.iam.gserviceaccount.com",
+  "client_id": "113633879730618644933",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/parser-coinex%40parsercoinex.iam.gserviceaccount.com"
+}
