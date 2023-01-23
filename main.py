@@ -26,8 +26,8 @@ def write_to_sheet(massiv, table):
     #         clear.append(['', '', '', '', ''])
     # table.update(f'A1:E1001', clear)
     try:
-        usdc = [['USDC', 'Цена']]
-        usdt = [['USDT', 'Цена']]
+        usdc = [['USDC', 'Rate']]
+        usdt = [['USDT', 'Rate']]
         for name in massiv:
             if name.find('USDC') > 0:
                 usdc.append([name, massiv[name]])
