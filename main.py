@@ -39,7 +39,7 @@ def write_to_sheet(massiv, table):
         table.update(f'D1:E{btc_len}', usdc)
         print(round(time()))
     except Exception as ex:
-        print('Error, try again')
+        print(ex)
 
 
 def work():
